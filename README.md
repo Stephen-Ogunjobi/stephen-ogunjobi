@@ -2,7 +2,7 @@
 
 ## Full-Stack Engineer | Backend Architecture | Scalable Systems
 
-I build production-ready web applications — from intuitive frontend experiences to scalable backend architecture and cloud infrastructure.
+I build production ready web applications from intuitive frontend experiences to scalable backend architecture and cloud infrastructure.
 
 My focus: performance, reliability, clean architecture, and business impact.
 
