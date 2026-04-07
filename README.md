@@ -85,5 +85,5 @@ Designed for performance and growth.
 
 If you're building a startup, scaling a product, or need a reliable full-stack engineer — let’s talk.
 
-[LinkedIn](https://www.linkedin.com/in/stephen-ogunjobi-466ab0312)  
+[LinkedIn](https://www.linkedin.com/in/stephen-ogunjobi-367aba368)  
 [Twitter](https://x.com/stephensucexful)  
